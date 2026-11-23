@@ -1,0 +1,13 @@
+# tipo;rut;nombre;apellido;telefono;email;calle;numero;comuna;region;dato1;dato2
+# EMPLEADO: cargo;sueldoBase | GUIA: idioma;especialidad | CLIENTE: nacionalidad;tipoTour;;;;;;;;
+EMPLEADO;12.345.678-9;María;Soto;+569 1234 5678;maria.soto@llanquihuetour.cl;Av. Ramón Freire;120;Llanquihue;Los Lagos;Coordinadora de Tours;850000
+EMPLEADO;10.987.654-3;Rodrigo;Vargas;+569 4449 8765;rodrigo.vargas@llanquihuetour.cl;Calle San Francisco;310;Puerto Varas;Los Lagos;Administrador;900000
+GUIA;13.456.789-0;Pedro;Alvarado;+569 8765 4321;pedro.alvarado@llanquihuetour.cl;Calle Errázuriz;455;Puerto Varas;Los Lagos;Español / Inglés;Paseos Lacustres
+GUIA;14.222.333-4;Javiera;Barria;+569 5551 2345;javiera.barria@llanquihuetour.cl;Av. Philippi;75;Frutillar;Los Lagos;Español / Portugués;Excursión Cultural
+GUIA;15.111.222-5;Matías;Oyarzún;+569 8765 0000;matias.oyarzun@llanquihuetour.cl;Calle Los Alerces;22;Llanquihue;Los Lagos;Español / Alemán;Ruta Gastronómica
+CLIENTE;21.654.321-k;Laura;Becker;+569 5555 1234;laura.becker@gmail.com;Av. Vicente Perez Rosales;80;Frutillar;Los Lagos;Alemana;Ruta Gastronómica
+CLIENTE;19.876.543-2;John;Miller;+569 3333 4444;john.miller@gmail.com;Calle Imperial;540;Puerto Montt;Los Lagos;Estadounidense;Paseos Lacustres
+CLIENTE;12.345.678-9;Duplicado;Prueba;+569 0000 0000;dup@gmail.com;Calle Falsa;1;Llanquihue;Los Lagos;Chilena;Excursión Cultural
+CLIENTE;18.999.888-7;Sin;Correo;+569 2222 3333;correo-malo;Calle Uno;10;Llanquihue;Los Lagos;Chilena;Excursión Cultural
+GUIA;16.555.444-3;Teléfono;Corto;123;tel@gmail.com;Calle Dos;20;Llanquihue;Los Lagos;Español;Paseos Lacustres
+EMPLEADO;17.333.222-1;Sueldo;Malo;+569 7777 8888;sueldo@llanquihuetour.cl;Calle Tres;30;Llanquihue;Los Lagos;Ayudante;abc
